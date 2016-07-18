@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NearTaxi</string>
+     <string name="str_btn_draw">Draw Route</string>
 </resources>
